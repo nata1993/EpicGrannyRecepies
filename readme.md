@@ -24,6 +24,7 @@ their amount needed. Experimentation is the key, just like Granny would like you
 ## App view
 ### **Main view**
 Main view of the app where you will have a list of all the recepies gathered from The Granny.
+
 ![GrannyRecepies](readme/app_view.png)
 
 
@@ -32,7 +33,9 @@ Recepie view of the app where after choosing your desired recepie, you will have
 instructions with some basic ingredients needed for the meal. But amount are yours to decide which is
 the secret of all the Grannies in the world, they "just throw stuff in the mix" and "I dont know
 how much, I just throw stuff in, taste it, and throw stuff in if there is not enough!"
+
 ![GrannyRecepies](readme/recepie_view.png)
+
 
 ## Installation
 
