@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/FirstFragment">
+
+    <fragment
+        android:id="@+id/FirstFragment"
+        android:name="com.nata1993.grannyrecepies.Fragment1"
+        android:label="@string/first_fragment_label"
+        tools:layout="@layout/fragment_1">
+
+        <action
+            android:id="@+id/action_FirstFragment_to_SecondFragment"
+            app:destination="@id/SecondFragment" />
+        <action
+            android:id="@+id/action_FirstFragment_to_ThirdFragment"
+            app:destination="@id/ThirdFragment" />
+        <action
+            android:id="@+id/action_FirstFragment_to_FourthFragment"
+            app:destination="@+id/FourthFragment"/>
+        <action
+            android:id="@+id/action_FirstFragment_to_FifthFragment"
+            app:destination="@+id/FifthFragment"/>
+        <action
+            android:id="@+id/action_FirstFragment_to_SixthFragment"
+            app:destination="@+id/SixthFragment"/>
+        <action
+            android:id="@+id/action_FirstFragment_to_SeventhFragment"
+            app:destination="@+id/SeventhFragment"/>
+        <action
+            android:id="@+id/action_FirstFragment_to_EighthFragment"
+            app:destination="@+id/EighthFragment"/>
+        <action
+            android:id="@+id/action_FirstFragment_to_NinthFragment"
+            app:destination="@+id/NinthFragment"/>
+        <action
+            android:id="@+id/action_FirstFragment_to_TenthFragment"
+            app:destination="@+id/TenthFragment"/>
+    </fragment>
+
+    <fragment
+        android:id="@+id/SecondFragment"
+        android:name="com.nata1993.grannyrecepies.Fragment2"
+        android:label="@string/soolalohe_title"
+        tools:layout="@layout/fragment_2">
+        <action
+            android:id="@+id/action_SecondFragment_to_FirstFragment"
+            app:destination="@id/FirstFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/ThirdFragment"
+        android:name="com.nata1993.grannyrecepies.Fragment3"
+        android:label="@string/taidetudAhjukartul_title"
+        tools:layout="@layout/fragment_3">
+        <action
+            android:id="@+id/action_ThirdFragment_to_FirstFragment"
+            app:destination="@id/FirstFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/FourthFragment"
+        android:name="com.nata1993.grannyrecepies.Fragment4"
+        android:label="@string/praekartul_title"
+        tools:layout="@layout/fragment_4">
+        <action
+            android:id="@+id/action_FourthFragment_to_FirstFragment"
+            app:destination="@+id/FirstFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/FifthFragment"
+        android:name="com.nata1993.grannyrecepies.Fragment5"
+        android:label="@string/kisell_title"
+        tools:layout="@layout/fragment_5">
+        <action
+            android:id="@+id/action_FifthFragment_to_FirstFragment"
+            app:destination="@+id/FirstFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/SixthFragment"
+        android:name="com.nata1993.grannyrecepies.Fragment6"
+        android:label="@string/Piimasupp_title"
+        tools:layout="@layout/fragment_6">
+        <action
+            android:id="@+id/action_SixthFragment_to_FirstFragment"
+            app:destination="@+id/FirstFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/SeventhFragment"
+        android:name="com.nata1993.grannyrecepies.Fragment7"
+        android:label="@string/kalasupp_title"
+        tools:layout="@layout/fragment_7">
+        <action
+            android:id="@+id/action_SeventhFragment_to_FirstFragment"
+            app:destination="@+id/FirstFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/EighthFragment"
+        android:name="com.nata1993.grannyrecepies.Fragment8"
+        android:label="@string/puree_title"
+        tools:layout="@layout/fragment_8">
+        <action
+            android:id="@+id/action_EighthFragment_to_FirstFragment"
+            app:destination="@+id/FirstFragment" />
+    </fragment>
+</navigation>

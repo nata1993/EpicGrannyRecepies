@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GrannyRecepies</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Epic Granny Recepies! :P</string>
+    <string name="back">Back</string>
+
+    <string name="add_recepie_button_description">If you want to add new recepie, press here.</string>
+
+    <string name="koostisosad">Koostisosad:</string>
+</resources>

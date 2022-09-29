@@ -1,0 +1,66 @@
+<resources>
+    <string name="list">list</string>
+
+    <string name="soolalohe_title">Soolalõhe</string>
+    <string name="soolalohe">
+        Võta kalafilee, pese külma vee all puhtaks, kuivata paberrätikuga vms. Kontrolli, et kalal oleks võimalikult vähe luid, vajadusel tõmba need välja.
+        \nPoti sisse määri soola. Võta filee kätte ja määri soola kala liha küljele.
+        Aseta määritud lihaküljega filee potti soola peale ja määri soolaga filee nahapoolne osa.
+        Iga järgneva fileega korda protsessi ja pane fileed nii, et liha poole puutuvad kokku ja naha pooled puutuvad kokku, nende vahel määritud sool.
+        \nVõta marli riie vms, tee see niiskeks ja kata soolatud lõhefileed niiske marliga, mis kaitseb kala mustuse ja võimalike putukate eest.
+        Pista soolalõhe külmkappi paariks päevaks. Punane kala võtab nii palju kui vaja soola enda sisse ja ei rohkem.
+        \nJärgmine päev pööra fileed potis ümber, et kõik fileed saaksid ühtlaselt soolatud.
+        \nKui kala on valmis, lõika fileest väikesed vileetükikesed ilma nahata. Puhtasse anumasse viska need tükikesed, seejärel kui kala on lõigatud,
+        kalla fileetükikesed õliga üle ning sega.
+        \nSoolalõhe on valmis serveerimiseks võileivale või niisama söömiseks kui isu on.
+    </string>
+
+    <string name="taidetudAhjukartul_title">Täidetud Ahjukartul</string>
+    <string name="taidetudAhjukartul">
+        Keeda kartulid koorega. Peale keetmist lase jahtuda ja lõika pooleks. Väikese lusikaga või noaga võta kartulipooltest südamik välja
+        ehk uurista auk kartulipooltesse ilma neid läbimata.
+        \nTäidiseks prae peekonikuubikud. Riivjuustule lisa majoneesi, pressitud küüslauku, maitserohelist ja praetud peekonikuubikud.
+        \nSega kõik korralikult ja täida kartulid täidisega. Pista täidetud kartulid ahju.
+        \n\n<b>P.S.</b> Järgijäänud kartulisüdamikud saad praadida pannil soolapekiga või pekiga või võiga kuldseks ja maitsvaks ühekorra
+        söögiks.
+    </string>
+
+    <string name="praekartul_title">Praekartul</string>
+    <string name="praekartul">
+        Viska pekk pannile, viska viilutatud/tükeldatud kartul pannile, viska hakitud sibul pannile, lisa õli ja prae. Vajadusel võid lisada seeni praadimise ajal.
+        \n\n<b>NB!</b> Kui tahad krõmpsuvat praekartulit, siis on vaja kartulit kuivatada peale vees kurnamist.
+    </string>
+
+    <string name="kisell_title">Kisell</string>
+    <string name="kisell">
+        Lisa vette siirupit, moosi vms ja sega kuni lahustumiseni ning seejärel aseta tulele. Aja vedelik peaaegu keema ja lisa tärklist pidevalt vedeliku segades.
+        Tärklist võid eelnevalt tassi sisse valmis segada ja hiljem kuumale vedelikule lisada pidevalt segades.
+    </string>
+
+    <string name="Piimasupp_title">Piimasupp</string>
+    <string name="piimasupp">
+        Aja vesi ja piim suhtega 1:1 keema. Kui vaht hakkab tõusma, võta suurelt tulelt maha ja pane väikeselt tulele nõrgalt podisema.
+        Lisa soola, maitsesta suhkruga kui on soovi, lisa makarone või nuudleid. Väikesel tulel lase pidevalt segades makarone veidi pehmeks ja
+        siis keera tuli maha, et makaronid saaksid kuumas vee ise lõpuni valmida. Lisa võid ja sega uuesti ümber.
+    </string>
+
+    <string name="kalasupp_title">Kalasupp</string>
+    <string name="kalasupp">
+        Keeda kalapuljong. Puljongi jaoks võta suvaline kala, peaasi, et ei oleks luid kalas, muidu on hiljem suu konte söömise
+        ajal täis.
+        \nVõta kala puljongist välja ja Keedetud puljongile lisa ca 100g riisi, lisa keskmine hakitud porgand. Tuli poti all peab
+        olema väikesel tulel. Lase potis olevad ained vaikselt valmida ja samal ajal asu puhastama keedetud kala luudest.
+        \nKui potis hakkas puljong keema, lase keeda ca 10 minutit väikesel tulel, seejärel lisa kartul ja hakka praadima keskmist hakitud sibulat.
+        Prae sibul poolläbipaistvaks, mitte pruuniks ja lisa potti.
+        \nLase toiduainetel keeda veel ca 10 minutit, lisa maitserohelist ja puhastatud kala.
+        \nLase keeda veel ca 10 minutit.
+    </string>
+
+    <string name="puree_title">Püree</string>
+    <string name="puree">
+        Keeda kartul ilma kooreta pehmeks. Haki kartuli keetmise ajal sibul kuubikuteks valmis. Kui kartul on pehme, kurna vesi ja pressi kartulid katki.
+        \nVõta piim ja tee soojaks. Samal ajal prae sibulat võiga kergelt kuldseks. Kalla sibul võiga purustatud kartulitesse ja lisa soe piim.
+        \nSega esialgu lusikaga, et suurem osa piimast imenduks kartulisse, seejärel klopi õhuliseks.
+        \n\n<b>P.S.</b> Kui on olemas saumikser, siis kloppimise asemel õhusta püree saumikseriga peale purustatud kartulite esmast segamist lusikaga.
+    </string>
+</resources>
