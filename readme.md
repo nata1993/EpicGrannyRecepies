@@ -1,6 +1,6 @@
 # Epic Granny Recepies! :P
 
-### Intro
+## Intro
 I know I know... Lame name for the app... But think about your granny. She is/was epic, right?! :P
 
 Now... This app is about single Granny in this world who has made so many tasty meals over her life.
@@ -33,3 +33,13 @@ instructions with some basic ingredients needed for the meal. But amount are you
 the secret of all the Grannies in the world, they "just throw stuff in the mix" and "I dont know
 how much, I just throw stuff in, taste it, and throw stuff in if there is not enough!"
 ![GrannyRecepies](readme/recepie_view.png)
+
+## Installation
+
+### 1. Building yourself
+One way is for you to install Android Studio with all the needed packages and builds, SDK-s etc.
+Then clone repository to local directory, open it in Android Studio and then build it yourself.
+
+### 2. APK
+Nope, not yet introducing that. Not ready for it.
+
