@@ -1,5 +1,6 @@
 # Epic Granny Recepies! :P
 
+### Intro
 I know I know... Lame name for the app... But think about your granny. She is/was epic, right?! :P
 
 Now... This app is about single Granny in this world who has made so many tasty meals over her life.
@@ -19,3 +20,15 @@ looking at the wrong project. Any other modification or improvement to the app i
 appreciated, but recepies will not be added from third party people.
 Existing recepies will also not be modified to be exactly step by step with all the ingredients and
 their amount needed. Experimentation is the key, just like Granny would like you to learn.
+
+### App view
+**Main view**
+![GrannyRecepies](readme/app_view.png)
+Main view of the app where you will have a list of all the recepies gathered from The Granny.
+
+**Recepies view**
+![GrannyRecepies](readme/recepie_view.png)
+Recepie view of the app where after choosing your desired recepie, you will have almost step-by-step
+instructions with some basic ingredients needed for the meal. But amount are yours to decide which is
+the secret of all the Grannies in the world, they "just throw stuff in the mix" and "I dont know
+how much, I just throw stuff in, taste it, and throw stuff in if there is not enough!"
