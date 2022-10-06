@@ -63,4 +63,20 @@
         \nSega esialgu lusikaga, et suurem osa piimast imenduks kartulisse, seejärel klopi õhuliseks.
         \n\n<b>P.S.</b> Kui on olemas saumikser, siis kloppimise asemel õhusta püree saumikseriga peale purustatud kartulite esmast segamist lusikaga.
     </string>
+
+    <string name="ahjukala_title">Ahjukala</string>
+    <string name="ahjukala">
+        Pane ahi sooja ja alusta kala puhastamisega. Lõika uimed ära, pista puhastatud kala ahjukotti ja seejärel täidetud ahjukott ahjupannile/alusele.
+        Lisa kalale vajalikud maitseained. Pista kala ahju kuni valmissaamiseni ehk circa 40 minutit.
+    </string>
+
+    <string name="borss_title">Boršš</string>
+    <string name="borss">
+        Keeda puljong lihast. Võta puljongist liha välja koos kontidega. Pane puljong tagasi väikesele tulele.
+        \nKoori porgand, kartul ja peet. Viiluta porgand rõngasteks, haki kartul ja viska need puljongisse. Haki kapsas võimalikult peenikeselt.
+        Kui kartul läheb kergelt puljongis katki, viska hakitud kapsas puljongisse ja haki seejärel sibul. Tükelda liha ja eemalda "tatised osad".
+        \nRiivi peet pannile, lisa õli ja hauta peeti.
+        \nKui kapsas on muutunud pehmeks, lisa hautatud peet puljongisse. Lisa soovi korral maitseained, lisa maitserohelist. Lisa liha puljongisse.
+        \nPrae sibul kuni see muutub läbipaistvaks, lisa sellele tomatipasta. Lisa praetud sibul puljongisse ja lase keeda väikesel tulel valmimiseni.
+    </string>
 </resources>

@@ -11,7 +11,7 @@ import androidx.navigation.fragment.NavHostFragment;
 
 import com.nata1993.grannyrecepies.databinding.Fragment1Binding;
 
-public class Fragment1 extends Fragment {
+public class Main_Fragment extends Fragment {
 
     private Fragment1Binding binding;
 
@@ -33,7 +33,7 @@ public class Fragment1 extends Fragment {
         binding.recepiesTextview1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                NavHostFragment.findNavController(Fragment1.this)
+                NavHostFragment.findNavController(Main_Fragment.this)
                         .navigate(R.id.action_FirstFragment_to_SecondFragment);
             }
         });
@@ -42,7 +42,7 @@ public class Fragment1 extends Fragment {
         binding.recepiesTextview2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                NavHostFragment.findNavController(Fragment1.this)
+                NavHostFragment.findNavController(Main_Fragment.this)
                         .navigate(R.id.action_FirstFragment_to_ThirdFragment);
             }
         });
@@ -51,7 +51,7 @@ public class Fragment1 extends Fragment {
         binding.recepiesTextview3.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                NavHostFragment.findNavController(Fragment1.this)
+                NavHostFragment.findNavController(Main_Fragment.this)
                         .navigate(R.id.action_FirstFragment_to_FourthFragment);
             }
         });
@@ -60,7 +60,7 @@ public class Fragment1 extends Fragment {
         binding.recepiesTextview4.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                NavHostFragment.findNavController(Fragment1.this)
+                NavHostFragment.findNavController(Main_Fragment.this)
                         .navigate(R.id.action_FirstFragment_to_FifthFragment);
             }
         });
@@ -69,7 +69,7 @@ public class Fragment1 extends Fragment {
         binding.recepiesTextview5.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                NavHostFragment.findNavController(Fragment1.this)
+                NavHostFragment.findNavController(Main_Fragment.this)
                         .navigate(R.id.action_FirstFragment_to_SixthFragment);
             }
         });
@@ -78,7 +78,7 @@ public class Fragment1 extends Fragment {
         binding.recepiesTextview6.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                NavHostFragment.findNavController(Fragment1.this)
+                NavHostFragment.findNavController(Main_Fragment.this)
                         .navigate(R.id.action_FirstFragment_to_SeventhFragment);
             }
         });
@@ -87,8 +87,26 @@ public class Fragment1 extends Fragment {
         binding.recepiesTextview7.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                NavHostFragment.findNavController(Fragment1.this)
+                NavHostFragment.findNavController(Main_Fragment.this)
                         .navigate(R.id.action_FirstFragment_to_EighthFragment);
+            }
+        });
+
+        // Ahjukala
+        binding.recepiesTextview8.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                NavHostFragment.findNavController(Main_Fragment.this)
+                        .navigate(R.id.action_FirstFragment_to_NinthFragment);
+            }
+        });
+
+        // Boršš
+        binding.recepiesTextview9.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                NavHostFragment.findNavController(Main_Fragment.this)
+                        .navigate(R.id.action_FirstFragment_to_TenthFragment);
             }
         });
     }

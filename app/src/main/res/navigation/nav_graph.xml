@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/FirstFragment"
-        android:name="com.nata1993.grannyrecepies.Fragment1"
+        android:name="com.nata1993.grannyrecepies.Main_Fragment"
         android:label="@string/first_fragment_label"
         tools:layout="@layout/fragment_1">
 
@@ -107,6 +107,26 @@
         tools:layout="@layout/fragment_8">
         <action
             android:id="@+id/action_EighthFragment_to_FirstFragment"
+            app:destination="@+id/FirstFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/NinthFragment"
+        android:name="com.nata1993.grannyrecepies.Fragment9"
+        android:label="@string/ahjukala_title"
+        tools:layout="@layout/fragment_9">
+        <action
+            android:id="@+id/action_NinthFragment_to_FirstFragment"
+            app:destination="@+id/FirstFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/TenthFragment"
+        android:name="com.nata1993.grannyrecepies.Fragment10"
+        android:label="@string/borss_title"
+        tools:layout="@layout/fragment_10">
+        <action
+            android:id="@+id/action_TenthFragment_to_FirstFragment"
             app:destination="@+id/FirstFragment" />
     </fragment>
 </navigation>

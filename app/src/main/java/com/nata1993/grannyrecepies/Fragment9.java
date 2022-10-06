@@ -10,19 +10,19 @@ import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 import androidx.navigation.fragment.NavHostFragment;
 
-import com.nata1993.grannyrecepies.databinding.Fragment8Binding;
+import com.nata1993.grannyrecepies.databinding.Fragment9Binding;
 
-// Püree
-public class Fragment8 extends Fragment {
+// Ahjukala
+public class Fragment9 extends Fragment {
 
-    private Fragment8Binding binding;
+    private Fragment9Binding binding;
 
     @Nullable
     @Override
     public View onCreateView(
             @NonNull LayoutInflater inflater, @Nullable ViewGroup container,
             @Nullable Bundle savedInstanceState) {
-        binding = Fragment8Binding.inflate(inflater, container, false);
+        binding = Fragment9Binding.inflate(inflater, container, false);
         return binding.getRoot();
     }
 
@@ -34,8 +34,8 @@ public class Fragment8 extends Fragment {
 
             @Override
             public void onClick(View v) {
-                NavHostFragment.findNavController(Fragment8.this)
-                        .navigate(R.id.action_EighthFragment_to_FirstFragment);
+                NavHostFragment.findNavController(Fragment9.this)
+                        .navigate(R.id.action_NinthFragment_to_FirstFragment);
             }
         });
     }

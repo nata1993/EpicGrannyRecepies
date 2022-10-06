@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Fragment1">
+    tools:context=".Main_Fragment">
 
     <ScrollView
         android:layout_width="match_parent"
@@ -106,6 +106,30 @@
                 android:text="@string/puree_title"
                 android:textAlignment="center"
                 android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/recepies_textview_8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="20dp"
+                android:fontFamily="casual"
+                android:textSize="20sp"
+                android:textAlignment="center"
+                android:text="@string/ahjukala_title" />
+
+            <TextView
+                android:id="@+id/recepies_textview_9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="20dp"
+                android:fontFamily="casual"
+                android:textSize="20sp"
+                android:textAlignment="center"
+                android:text="@string/borss_title" />
 
         </LinearLayout>
     </ScrollView>
