@@ -15,11 +15,15 @@ well then you will have great experience of being full for the better part of ne
 All in all, this project is basically in a way a preservation of information about home cooked meal
 recepies. Work is still in progress and new recepies constantly being added over time.
 
-If you want to have some recepie added from not this Epic Granny I have, then unfortunately you are
-looking at the wrong project. Any other modification or improvement to the app is welcome and
-appreciated, but recepies will not be added from third party people.
-Existing recepies will also not be modified to be exactly step by step with all the ingredients and
-their amount needed. Experimentation is the key, just like Granny would like you to learn.
+If you want to have some recepie added that you think would be great to have in Epic Granny app, then
+unfortunately you are looking at the wrong project. Any other modification or improvement to the app is
+welcome and appreciated, but recepies will not be added from third party people.
+Existing recepies will also not be modified to be exact step-by-step with all the ingredients and
+their amount needed. Experimentation is the key, just like your Granny would like you to learn. :)
+
+P.S and NB!!!! WHen making meals, you have to be full of love and hapiness and wonders, otherwise
+all your trial and errors will be wasted and your meals wont be as tasty as they should be...
+Enjoy the making of small wonders, not cooking itself!
 
 ## App view
 ### **Main view**
@@ -44,5 +48,5 @@ One way is for you to install Android Studio with all the needed packages and bu
 Then clone repository to local directory, open it in Android Studio and then build it yourself.
 
 ### 2. APK
-Nope, not yet introducing that. Not ready for it.
+Nope, not yet introducing that. Not ready for it. Have not yet learned it to introduce such thing.
 
