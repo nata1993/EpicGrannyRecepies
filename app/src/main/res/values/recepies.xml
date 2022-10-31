@@ -79,4 +79,20 @@
         \nKui kapsas on muutunud pehmeks, lisa hautatud peet puljongisse. Lisa soovi korral maitseained, lisa maitserohelist. Lisa liha puljongisse.
         \nPrae sibul kuni see muutub läbipaistvaks, lisa sellele tomatipasta. Lisa praetud sibul puljongisse ja lase keeda väikesel tulel valmimiseni.
     </string>
+
+    <string name="ahjukartul_title">Ahjukartul</string>
+    <string name="ahjukartul">
+        Koori ja lõika kartul ringideks. Laota ringid ahjupannile või ahjukaussi, maitsesta soola ja maitseainetega.
+        \nLihakaks ahjukartuliroaks pane peekonit või muud taolist kartuli peale. Maitsesta ka liha maitseainete ja soolaga.
+        \nPista ahju tunnikeseks.
+    </string>
+
+    <string name="sornikud_title">Sõrnikud</string>
+    <string name="sornikud">
+        Võta kohupiim, ideaalis 17% või ehk ka rohkem aga kõlbab ka 5%. Alla 5% ära isegi mõtle võtta kuigi annab ka sellest teha…
+        \nLisa kohupiimale muna, suhkurt, vanillisuhkurt, natuke soola. Sega kõik ühtlaseks massiks. Olenevalt kui vedel on saadud mass, lisa jahu.
+        \nSega mass taas ühtlaseks kuni ta meenutab kotlettide hakklihamassi.
+        \nMärgade kätega vormi ümarad pätsikesed, puista jahu mõlemale küljele ja prae mõni minut kuniks mõlemad küljed on kuldsed või kergelt pruunikad.
+        \n\n<b>P.S.</b> Kohupiimamass peab peale praadimist olema keskelt mitte vedel!
+    </string>
 </resources>

@@ -38,6 +38,12 @@
         <action
             android:id="@+id/action_FirstFragment_to_TenthFragment"
             app:destination="@+id/TenthFragment"/>
+        <action
+            android:id="@+id/action_FirstFragment_to_11Fragment"
+            app:destination="@+id/EleventhFragment"/>
+        <action
+            android:id="@+id/action_FirstFragment_to_12Fragment"
+            app:destination="@+id/TwelvethFragment"/>
     </fragment>
 
     <fragment
@@ -127,6 +133,26 @@
         tools:layout="@layout/fragment_10">
         <action
             android:id="@+id/action_TenthFragment_to_FirstFragment"
+            app:destination="@+id/FirstFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/EleventhFragment"
+        android:name="com.nata1993.grannyrecepies.Fragment11"
+        android:label="@string/ahjukartul_title"
+        tools:layout="@layout/fragment_10">
+        <action
+            android:id="@+id/action_11Fragment_to_FirstFragment"
+            app:destination="@+id/FirstFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/TwelvethFragment"
+        android:name="com.nata1993.grannyrecepies.Fragment12"
+        android:label="@string/sornikud_title"
+        tools:layout="@layout/fragment_10">
+        <action
+            android:id="@+id/action_12Fragment_to_FirstFragment"
             app:destination="@+id/FirstFragment" />
     </fragment>
 </navigation>

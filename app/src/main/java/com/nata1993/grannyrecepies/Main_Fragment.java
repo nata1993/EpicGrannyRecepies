@@ -109,6 +109,24 @@ public class Main_Fragment extends Fragment {
                         .navigate(R.id.action_FirstFragment_to_TenthFragment);
             }
         });
+
+        // Ahjukartul
+        binding.recepiesTextview10.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                NavHostFragment.findNavController(Main_Fragment.this)
+                        .navigate(R.id.action_FirstFragment_to_11Fragment);
+            }
+        });
+
+        // Sõrnikud
+        binding.recepiesTextview11.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                NavHostFragment.findNavController(Main_Fragment.this)
+                        .navigate(R.id.action_FirstFragment_to_12Fragment);
+            }
+        });
     }
 
     @Override
