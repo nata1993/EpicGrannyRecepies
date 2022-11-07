@@ -33,8 +33,10 @@
 
     <string name="kisell_title">Kisell</string>
     <string name="kisell">
-        Lisa vette siirupit, moosi vms ja sega kuni lahustumiseni ning seejärel aseta tulele. Aja vedelik peaaegu keema ja lisa tärklist pidevalt vedeliku segades.
-        Tärklist võid eelnevalt tassi sisse valmis segada ja hiljem kuumale vedelikule lisada pidevalt segades.
+        Lisa vette siirupit, moosi vms ja sega kuni lahustumiseni ning seejärel aseta tulele. Siirup või moos ei pea olema palju kui seda on vähe, 
+        sest alati võib magususe andmiseks lisada suhkurt.
+        \nAja vedelik peaaegu keema ja lisa tärklist pidevalt vedeliku segades. Tärklist võid eelnevalt tassi sisse valmis segada ja hiljem kuumale
+        vedelikule lisada pidevalt segades.
     </string>
 
     <string name="Piimasupp_title">Piimasupp</string>
